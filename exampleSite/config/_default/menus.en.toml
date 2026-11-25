@@ -1,0 +1,25 @@
+  [[main]]
+  name = "Home"
+  weight = 100
+  identifier = "home"
+  url = "/"
+
+  [[main]]
+  name = "Resumé"
+  weight = 200
+  identifier = "resume"
+  url = "/resume/"
+
+  [[main]]
+  name = "Technical Documentation"
+  weight = 300
+  identifier = "technical documentation"
+  url = "/technical-documentation/"
+  parent = "portfolio"  
+
+  [[main]]
+  name = "Other Content"
+  weight = 310
+  identifier = "other content"
+  url = "/other-content/"
+  parent = "portfolio"  
