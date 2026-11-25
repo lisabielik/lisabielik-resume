@@ -58,8 +58,9 @@
 
     &-profileimage {
       width: 150px;
-      height: 145px;
+      height: 150px;
       border-radius: 50%;
+      object-fit: cover;
     }
 
     &-title {

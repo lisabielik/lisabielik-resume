@@ -346,8 +346,9 @@ body {
 }
 .sidebar__introduction-profileimage {
   width: 150px;
-  height: 145px;
+  height: 150px;
   border-radius: 50%;
+  object-fit: cover;
 }
 .sidebar__introduction-title {
   text-transform: uppercase;
